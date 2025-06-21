@@ -1,1 +1,9 @@
-Flask==2.3.3
+fastapi 
+uvicorn 
+python-dotenv
+langchain 
+langchain-openai 
+langchain-community
+unstructured[all-docs]
+pypdf
+langchain_chroma
